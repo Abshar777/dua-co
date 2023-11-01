@@ -1,1 +1,1 @@
-t https://abshar777.github.io/dua-co/
+ https://abshar777.github.io/dua-co/
