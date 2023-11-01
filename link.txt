@@ -1,0 +1,16 @@
+video:-   
+https://duo-studio.co/assets/home/Duo%20Reel--Desktop-reduced.mp4
+
+img:-
+   https://d33wubrfki0l68.cloudfront.net/20696575c48be579c70798eacdea1854f171b7cb/fda6d/assets/services/services__branding@1152.webp
+
+   https://d33wubrfki0l68.cloudfront.net/976ade89631d7339ed7fb42512bb115d455ac9e3/0744c/assets/services/services__websites@1152.webp
+
+page 2 video :-
+v :-   https://d33wubrfki0l68.cloudfront.net/a13ea7c2ca2f38134748966280e54af4340ce821/f976d/assets/home/projects_madegood-reduced.mp4
+
+im;  https://d33wubrfki0l68.cloudfront.net/d35ec8e58856def2dce8d8fec3e11bbb15943c70/a2198/assets/home/home__mgny-thumbnail.webp
+
+im:   https://d33wubrfki0l68.cloudfront.net/0c4a7971523f0f5143d6abec176eb8942fab0173/a2700/assets/home/home-casestudy-finturity.webp
+
+ v:  https://d33wubrfki0l68.cloudfront.net/fa393730d68d920a27e751cae31b01eeb1f0bc5e/e8b08/assets/home/projects_cruefilms-reduced.mp4
